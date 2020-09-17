@@ -1,7 +1,7 @@
 ### bang jago 
 
 - 🔭 I’m currently working on Client Developer
-- 🌱 I’m currently learning ~~ruby~~ still JavaScript
+- 🌱 Staff at game development studio.
 - ⚡ Fun fact: nak front end kowaaowowkakwaok
 
 
